@@ -1,0 +1,9 @@
+{
+  "name": "node-oauth2-server-error-handling-test",
+  "dependencies": {
+    "oauth2-server": "3.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
